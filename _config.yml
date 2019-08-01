@@ -1,4 +1,5 @@
 # Site
+<<<<<<< HEAD
 title:              Xinyu Grey
 bio:                'Welcome to Xinyu's home'
 description:        "this is my blog and secret"
@@ -9,6 +10,15 @@ background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             cn_China
 url:                https://xinyugrey.github.io
+=======
+title:          Xinyu
+bio:            'Just a simple Jekyll theme'
+description:    "JBlog is a minimal, one column and blue jekyll theme for your blog."
+picture:        'assets/img/profile.png'
+locale:         en_US
+url:            https://xinyugrey.github.io
+
+>>>>>>> 0285470ff5149e969ffc5db779ded8f0026ab6a8
 
 # Jekyll
 permalink:          /:title/
