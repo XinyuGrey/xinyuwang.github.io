@@ -1,6 +1,6 @@
 # Site
 <<<<<<< HEAD
-title:              Xinyu Grey
+title:              Xinyu_Grey
 bio:                'Welcome to Xinyu's home'
 description:        "this is my blog and secret"
 reading_time:       true
@@ -19,7 +19,7 @@ locale:         cn_China
 url:            https://xinyugrey.github.io
 
 >>>>>>> 0285470ff5149e969ffc5db779ded8f0026ab6a8
-
+gem "jekyll", ">= 3.6.3"
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
