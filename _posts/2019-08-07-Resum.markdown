@@ -1,0 +1,186 @@
+﻿---
+layout: post
+title:  "Resume"
+date:   2019-08-17
+author: Xinyu Wang
+categories: Dummy
+---
+
+![](https://github.com/XinyuGrey/xinyugrey.github.io/blob/master/me.jpg)
+
+<table>
+<thead>
+<tr class="header">
+<th>性别：男</th>
+<th>年龄：26岁</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>籍贯：河北 唐山</td>
+<td>电话：18602996480</td>
+</tr>
+<tr class="even">
+<td>邮箱：<a href="mailto:xinyugrey@163.com">xinyugrey@163.com</a></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>个人爱好：Iot,羽毛球，篮球以及各种精细的事务</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+------------------------------------------------------------------------
+
+教育背景
+--------
+
+<table>
+<thead>
+<tr class="header">
+<th><strong>2017.09-2020.06</strong></th>
+<th><strong>西安交通大学</strong></th>
+<th><strong>硕士</strong></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+**专业**：医学部共公卫生（卫生管理与政策） **学位**：公共卫生专业硕士
+
+<table>
+<thead>
+<tr class="header">
+<th><strong>2012.09-2017.06</strong></th>
+<th><strong>南方医科大学</strong></th>
+<th><strong>本科</strong></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+**专业**：预防医学（食品安全） **学位**：医学学士
+
+------------------------------------------------------------------------
+
+荣誉奖励
+--------
+
+<table>
+<thead>
+<tr class="header">
+<th><strong>2017.09至今</strong></th>
+<th><strong>校级二等学业奖学金、校级专硕奖学金</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>2014.06</strong></td>
+<td><strong>广州国际龙舟邀请赛（大学生组）第四名</strong></td>
+</tr>
+</tbody>
+</table>
+
+------------------------------------------------------------------------
+
+科研项目经历
+------------
+
+<table>
+<thead>
+<tr class="header">
+<th><strong>2019.06-2019.09</strong></th>
+<th><strong>陕西省县级公立医院经济运行分析</strong></th>
+<th><strong>项目负责人</strong></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+**工作内容**：收集陕西**165**家全部县级公立医院经济运行相关数据（数据量**2**万余）；使用**R**建立数据库，并对数据进行清晰、分析；使用**Rmarkdown**撰写研究报告（**3**万余字）。
+
+**项目成果**：形成《陕西省县级公立医院经济运行分析报告》，为陕西省实施取消耗材加成政策提供了依据。
+
+<table>
+<thead>
+<tr class="header">
+<th><strong>2018.06-2018.12</strong></th>
+<th><strong>2017年陕西省卫生总费用研究</strong></th>
+<th><strong>项目负责人</strong></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+**工作内容**：组织并培训**500+**人会议**4**次；使用**Stata**建立数据库（数据量**300+**万），并对数据进行审核、清洗和统计分析；撰写研究报告（**3**万余字）并在全国年会做成果汇报。
+
+**项目成果**：在整体上对陕西省卫生资金筹集、分配、使用到人群受益的全部流动过程进行了核算，从宏观上了解了陕西省卫生费用的筹资来源与机构流向，从微观上分析了卫生费用在不同医疗机构之间的功能流向、人群年龄分布、疾病分布等。并通过进一步细化核算口径，增加核算维度，提高了数据的国内及国际间可比性，更大程度满足了日益增长的政策分析需要，为分析卫生筹资过程中存在的问题，制定和调整卫生筹资政策提供支持。
+
+<table>
+<thead>
+<tr class="header">
+<th><strong>2018.02-2018.06</strong></th>
+<th><strong>西安市采供血机构布局规划研究</strong></th>
+<th><strong>主要负责人</strong></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+**工作内容**：使用**Stata**构建项目分析所需数据库（数据量**20+**万）；在西安市**9**区**4**县做实地考察，并撰写考察报告；对郑州、武汉、成都**3**个城市血站做实地考察。
+
+**项目成果**：充分了考虑西安市主城区的实际情况及未来城市新区的发展变化，合理布局了采血点，既要考虑了当前临床血液的需求，又要适当考虑到了前瞻性。在充分提高了资源利用效率、优化资源结构的同时，也要保障了制定资源配置标准时的供需平衡，为西安市血站采血点布局提供了依据。
+
+------------------------------------------------------------------------
+
+社会活动经历
+------------
+
+<table>
+<thead>
+<tr class="header">
+<th><strong>2017.09.24-27</strong></th>
+<th><strong>&quot;一带一路&quot;全球健康国际研讨会</strong></th>
+<th><strong>参加全英文研究报告5场</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>2018.03.25</strong></td>
+<td><strong>2017-2018中国大学生马拉松联赛</strong></td>
+<td><strong>参与并跑完2公里</strong></td>
+</tr>
+<tr class="even">
+<td><strong>2018.09-2018.12</strong></td>
+<td><strong>《医学统计学》助教</strong></td>
+<td><strong>代课2节、批改作业5次</strong></td>
+</tr>
+<tr class="odd">
+<td><strong>2019.05.24-26</strong></td>
+<td><strong>&quot;一带一路&quot;全球健康国际研讨会</strong></td>
+<td><strong>作为志愿者协助办会</strong></td>
+</tr>
+</tbody>
+</table>
+
+------------------------------------------------------------------------
+
+工作技能
+--------
+
+**语言技能**：英语**CET4/6**，具有良好的听说读写能力，能够流畅阅读英文专业文件及书籍。
+
+**专业技能**：熟练使用**R**、**Epidata**和**Stata**统计分析软件；精通**统计学**和**流行病学**知识；熟练运用**office**办公软。
+
+------------------------------------------------------------------------
+
+求职意向
+--------
+
+**数据分析师**（对医疗相关数据进行数据分析和数据挖掘，参与制作医疗相关科技产品。）
