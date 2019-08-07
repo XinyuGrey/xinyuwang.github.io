@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title:  "Resume"
+title:  "CV"
 date:   2019-08-17
 author: Xinyu Wang
 excerpt: " "
