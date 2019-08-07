@@ -6,6 +6,8 @@ author: Ben Centra
 categories: Dummy
 ---
 
+![](https://github.com/XinyuGrey/xinyugrey.github.io/blob/master/me.jpg)
+
 <table>
 <thead>
 <tr class="header">
