@@ -3,14 +3,9 @@ layout: post
 title:  "Resume"
 date:   2019-08-17
 author: Xinyu Wang
+excerpt: " "
 categories: Dummy
 ---
-
----
-
-
----
-
 
 ![](https://github.com/XinyuGrey/xinyugrey.github.io/blob/master/me.jpg?raw=true)
 
