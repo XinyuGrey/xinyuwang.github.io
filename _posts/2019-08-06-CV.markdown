@@ -7,5 +7,5 @@ excerpt: " "
 categories: Dummy
 ---
 
-[Click to know me](https://raw.githubusercontent.com/XinyuGrey/xinyugrey.github.io/master/CV%20html.html)
+[Click to know me](https://github.com/XinyuGrey/xinyugrey.github.io/blob/master/CV%20html.html)
 
