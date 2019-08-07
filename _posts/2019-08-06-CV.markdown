@@ -1,0 +1,11 @@
+﻿---
+layout: post
+title:  "Resume"
+date:   2019-08-17
+author: Xinyu Wang
+excerpt: " "
+categories: Dummy
+---
+
+[Click to know me](https://raw.githubusercontent.com/XinyuGrey/xinyugrey.github.io/master/CV%20html.html)
+
