@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "CV"
 date:   2019-08-17
