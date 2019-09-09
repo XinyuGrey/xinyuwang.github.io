@@ -1,10 +1,12 @@
----
+﻿---
 layout: post
 title:  "Resume"
 date:   2019-08-17
+excerpt: "This is my resume! "
 author: Xinyu Wang
-excerpt: " "
-categories: Dummy
+tags: [R, CEM, Matching]
+feature: https://img.huffingtonpost.com/asset/578782b91a00002700dd151c.jpeg
+comments: true
 ---
 
 ![](https://github.com/XinyuGrey/xinyugrey.github.io/blob/master/me.jpg?raw=true)
