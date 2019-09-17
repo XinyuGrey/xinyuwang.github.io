@@ -27,7 +27,7 @@ comments: true
 <td></td>
 </tr>
 <tr class="odd">
-<td>个人爱好：Iot,羽毛球，篮球以及各种精细的事务</td>
+<td>个人爱好：Iot,羽毛球，篮球以及各种精细的事物</td>
 <td></td>
 </tr>
 </tbody>
@@ -50,7 +50,7 @@ comments: true
 </tbody>
 </table>
 
-**专业**：医学部共公卫生（卫生管理与政策） **学位**：公共卫生专业硕士
+**专业**：医学部公共卫生（卫生管理与政策） **学位**：公共卫生专业硕士
 
 <table>
 <thead>
